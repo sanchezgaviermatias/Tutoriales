@@ -1,3 +1,3 @@
 # Material de Cursos 
-#Pytorch 
+# Pytorch 
 Introducción a pytorch - 2021 (En Progreso)
